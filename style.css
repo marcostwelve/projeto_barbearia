@@ -218,4 +218,8 @@ footer {
     .lista-beneficios, .imagem-beneficio {
         width: 100%;
     }
+
+    .enviar {
+        font-size: 0.7em;
+    }
 }
